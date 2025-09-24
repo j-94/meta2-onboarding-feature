@@ -1,0 +1,17 @@
+{
+  "setup_time_seconds": 0.2339787483215332,
+  "commands_processed": 16709,
+  "processing_time": 0.00279998779296875,
+  "commands_per_second": 5967526.016348774,
+  "detected_tools": [
+    "git",
+    "curl",
+    "python",
+    "docker",
+    "code"
+  ],
+  "tool_detection_note": "Requires manual verification",
+  "memory_usage_mb": -0.140625,
+  "network_calls_detected": 0,
+  "local_processing_verified": true
+}
